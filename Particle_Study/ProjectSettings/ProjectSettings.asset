@@ -604,7 +604,7 @@ PlayerSettings:
   apiCompatibilityLevel: 2
   cloudProjectId: 9519e4cd-6ae1-4079-9e8c-0ccef13f3dd7
   projectName: Particle_Study
-  organizationId: eliza-zhang
+  organizationId: elizazhang
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
